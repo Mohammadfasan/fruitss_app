@@ -1,0 +1,17 @@
+{
+  "advertisement": {
+    "image": "https://example.com/ad-banner.jpg"
+  },
+  "foods": {
+    "1": {
+      "name": "Milo",
+      "price": 150,
+      "image": "https://example.com/milo.jpg"
+    },
+    "2": {
+      "name": "Soft Drinks",
+      "price": 150,
+      "image": "https://example.com/softdrinks.jpg"
+    }
+  }
+}
