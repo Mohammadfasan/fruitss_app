@@ -1,4 +1,4 @@
-# 🍎 Fruits Order App (React Native + Firebase)
+#  Fruits Order App (React Native + Firebase)
 
 A beautiful and intuitive mobile application for browsing fruits, selecting favorites, and placing orders seamlessly. Built with React Native, Firebase, and styled with Tailwind CSS.
 
@@ -9,22 +9,9 @@ A beautiful and intuitive mobile application for browsing fruits, selecting favo
 ## 🚀 Live Demo & Source
 
 * **GitHub Repository:** [Fruits Order App](https://lnkd.in/gwJgyihg)
-* **Demo Video:** [Watch Demo]() *(Add your demo video link here)*
-* **Download APK:** [Download Here]() *(Add your APK download link if available)*
 
-## 📋 Table of Contents
 
-- [Features](#-features)
-- [Screens](#-screens)
-- [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
-- [Installation](#-installation)
-- [Environment Variables](#-environment-variables)
-- [Usage](#-usage)
-- [Firebase Setup](#-firebase-setup)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ## ✨ Features
 
